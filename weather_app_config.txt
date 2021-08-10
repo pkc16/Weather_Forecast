@@ -1,0 +1,4 @@
+[Settings]
+api_key=
+url=http://api.openweathermap.org/data/2.5/weather
+forecast_url=http://api.openweathermap.org/data/2.5/forecast
